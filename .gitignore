@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 /public/main.js
+/public/main.js.LICENSE.txt
 
 # testing
 /coverage
