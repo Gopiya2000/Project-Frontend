@@ -1,7 +1,7 @@
 {
-  "name": "Project",
+  "name": "projectfrontend",
   "version": "1.0.0",
-  "description": "The frontend of the project",
+  "description": "Frontend project using react",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server .",
